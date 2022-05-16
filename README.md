@@ -1,4 +1,4 @@
-# Hi, I'm Mansi Tagadiya! 👋
+# Hi, I'm Kevin Patel! 👋
  --> Hosted project link --> 
 
 # Features:
