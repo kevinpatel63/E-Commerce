@@ -13,7 +13,7 @@
 - Bootstarp
 
 # Author:
-- Mansi Tagadiya
+- Kevin Patel
 
 # Deployment:
 - To deploy this project run, I have used https://www.netlify.com/
