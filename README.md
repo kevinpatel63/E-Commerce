@@ -1,1 +1,1 @@
-# E-Commerce
+# ecommerce-ns-mini-project
